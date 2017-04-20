@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package cn.springmvc.common;
+package cn.springmvc.model;
 
 import java.io.Serializable;
 

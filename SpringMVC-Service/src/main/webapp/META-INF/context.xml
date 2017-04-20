@@ -1,0 +1,14 @@
+
+<Context>
+    <Resource
+        name="jdbc/aaaa"
+        auth="Container"
+        type="javax.sql.DataSource"
+        factory="org.logicalcobwebs.proxool.ProxoolDataSource"
+        proxool.alias="apool"
+        user="eben4a"
+        password="eben123"
+        proxool.driver-url="jdbc:mysql://192.171.1.53:3306/eben4a?useUnicode=true&amp;characterEncoding=utf8"
+        proxool.driver-class="com.mysql.jdbc.Driver">
+    </Resource>
+</Context>
